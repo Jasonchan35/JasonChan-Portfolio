@@ -6,6 +6,12 @@ Project for personal experiment purpose to test software architecture or new ide
 - Video: https://youtu.be/EJ-Y-z8kaCs
 
 ----
+### Shaders (2022)
+- Unity Shader Workshop hosted by me - 
+	[Demo Video](https://www.youtube.com/playlist?list=PLeGk08zVu457yLrs9xZd5mULQld0MopVh)
+	/ [Source code](https://github.com/SimpleTalkCpp/workshop-2021-07-unity-shader)
+
+----
 ### Blender Add-on (2022 - 2023)
 Add-on for streamline export workflow and handy tools, like what I’ve done in Maya or 3DS Max before.
 - Source Code: https://github.com/Jasonchan35/JxBlender
@@ -13,7 +19,7 @@ Add-on for streamline export workflow and handy tools, like what I’ve done in 
 
 ----
 ### Youtube Channel
-A channel to share some of my game development experiences
+A channel to share some of my game development experience and Tutorial
 - Link: https://www.youtube.com/@CPlusPlus
 - Some interesting videos:
 	- C++ Reflection -
