@@ -6,7 +6,7 @@ Project for personal experiment purpose to test software architecture or new ide
 - Video: https://youtu.be/EJ-Y-z8kaCs
 
 ----
-### Shaders (2022)
+### Shader Workshop Examples (2022)
 - Unity Shader Workshop hosted by me - 
 	[Demo Video](https://www.youtube.com/playlist?list=PLeGk08zVu457yLrs9xZd5mULQld0MopVh)
 	/ [Source code](https://github.com/SimpleTalkCpp/workshop-2021-07-unity-shader)
